@@ -10,3 +10,8 @@
 
 # Mac/OSX
 .DS_Store
+
+# project
+docker-compose.yml
+includes/
+assets/js/load_html.js
